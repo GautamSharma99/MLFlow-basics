@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/937587202926376532/743a3d5ad6c54ac19fd9b33dbd4fe555/artifacts
+end_time: 1741195394752
+entry_point_name: ''
+experiment_id: '937587202926376532'
+lifecycle_stage: active
+run_id: 743a3d5ad6c54ac19fd9b33dbd4fe555
+run_name: caring-hen-505
+run_uuid: 743a3d5ad6c54ac19fd9b33dbd4fe555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741195389170
+status: 3
+tags: []
+user_id: gauta
